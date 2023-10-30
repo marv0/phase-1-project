@@ -1,0 +1,66 @@
+{
+    "businesses": [
+        {
+            "id": 1,
+            "name": "Digital Ducks",
+            "industry": "Technology",
+            "votes": 0,
+            "upvotes": 0,
+            "downvotes": 0
+        },
+        {
+            "id": 2,
+            "name": "Safaricom",
+            "industry": "Technology",
+            "votes": 35,
+            "upvotes": 35,
+            "downvotes": 0
+        },
+        {
+            "id": 3,
+            "name": "Airtel",
+            "industry": "Technology",
+            "votes": 0,
+            "upvotes": 0,
+            "downvotes": 0
+        },
+        {
+            "id": 4,
+            "name": "Telkom",
+            "industry": "Technology",
+            "votes": 160,
+            "upvotes": 0,
+            "downvotes": 0
+        },
+        {
+            "id": 5,
+            "name": "KCB",
+            "industry": "Banking",
+            "votes": 24,
+            "upvotes": 40,
+            "downvotes": 0
+        },
+        {
+            "id": 6,
+            "name": "EABL",
+            "industry": "Manufacturing",
+            "votes": 0,
+            "upvotes": 0,
+            "downvotes": 0
+        },
+        {
+            "id": 7,
+            "name": "Equity",
+            "industry": "Banking",
+            "votes": 15,
+            "upvotes": 0,
+            "downvotes": 0
+        }
+    ],
+    "users": [
+        {
+            "username": "user123",
+            "voteCredits": 50
+        }
+    ]
+}
